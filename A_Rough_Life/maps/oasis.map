@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+Ds          , Ds          , Ds          , Ds          , Ds          , Ds          , Gs^Ft       , Ds          , Ds          , Ds          , Ds          , Ds          , Ds          
+Ds          , Ds          , Ds          , Ds          , Gs          , Gs^Ft       , Ww          , Gs^Ft       , Gs          , Ds          , Ds          , 2 Ds        , Ds          
+Ds          , Ds          , Gs^Ft       , Gs          , Gs          , Gs^Ft       , Gs^Ft       , Gs^Ft       , Gs          , Gs          , Gs^Ft       , Ds          , Ds          
+Ds          , Gs^Ft       , Ww          , Gs^Ft       , Gs          , Gs          , Gs          , Gs          , Gs          , Gs^Ft       , Ww          , Gs^Ft       , Ds          
+Ds          , Gs^Ft       , Gs^Ft       , Gs^Ft       , Gs          , Gs          , Ds          , Gs          , Gs          , Gs^Ft       , Gs^Ft       , Gs^Ft       , Ds          
+Ds          , Gs          , Gs          , Gs          , Gs          , Ds          , Ds          , Ds          , Gs          , Gs          , Gs          , Gs          , Ds          
+Ds          , Gs          , Gs^Ft       , Gs          , Gs          , Ds          , Ds          , Ds          , Gs          , Gs          , Gs^Ft       , Gs          , Ds          
+Ds          , Gs^Ft       , Ww          , Gs^Ft       , Gs          , Gs          , 1 Gs        , Gs          , Gs          , Gs^Ft       , Ww          , Gs^Ft       , Ds          
+Ds          , Gs^Ft       , Gs^Ft       , Gs^Ft       , Gs          , Gs          , Gs^Ft       , Gs          , Gs          , Gs^Ft       , Gs^Ft       , Gs^Ft       , Ds          
+Ds          , Ds          , Ds          , Gs          , Gs          , Gs^Ft       , Ww          , Gs^Ft       , Gs          , Gs          , Ds          , Ds          , Ds          
+Ds          , Ds          , Ds          , Ds          , Ds          , Gs^Ft       , Gs^Ft       , Gs^Ft       , Ds          , Ds          , Ds          , Ds          , Ds          
+Ds          , Ds          , Ds          , Ds          , Ds          , Ds          , Ww          , Ds          , Ds          , Ds          , Ds          , Ds          , Ds          

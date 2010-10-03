@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+Qlf         , Qlf         , Qlf         , Qlf         , Xu          , Xu          , Uu^Ii       , Uu^Ii       , Uu^Ii       , Xu          , Xu          , Qlf         , Qlf         , Qlf         , Qlf         
+Qlf         , Qlf         , Xu          , Xu          , Uu^Ii       , Uu^Ii       , Cud         , Cud         , Cud         , Uu^Ii       , Uu^Ii       , Xu          , Xu          , 5 Qlf       , Qlf         
+Xu          , Xu          , Uu^Ii       , Uu^Ii       , Cud         , Cud         , Ql^Bs\      , Ql^Bs|      , Ql^Bs/      , Cud         , Cud         , Uu^Ii       , Uu^Ii       , Xu          , Xu          
+Cud         , Uu^Ii       , 3 Kud       , Uu^Ii       , Cud         , Cud         , Ql^Bs/      , 2 Kud       , Ql^Bs\      , Cud         , Cud         , Uu^Ii       , Kud         , Uu^Ii       , Cud         
+Cud         , Cud         , Cud         , Cud         , Cud         , Cud         , Cud         , Ql^Bs|      , Cud         , Cud         , Cud         , Cud         , Cud         , Cud         , Cud         
+Cud         , Cud         , Wwf         , Cud         , Cud         , Gs^Ft       , Gs^Ft       , Cud         , Gs^Ft       , Gs^Ft       , Cud         , Cud         , Wwf         , Cud         , Cud         
+Cud         , Wwf         , Wwf         , Wwf         , Cud         , Gs^Ft       , Cud         , 4 Cud       , Cud         , Gs^Ft       , Cud         , Wwf         , Wwf         , Wwf         , Cud         
+Cud         , Wwf         , Wwf         , Wwf         , Cud         , Cud         , Cud         , Cud         , Cud         , Cud         , Cud         , Wwf         , Wwf         , Wwf         , Cud         
+Cud         , Wwf         , Wwf         , Wwf         , Cud         , Cud         , Cud         , Cud         , Cud         , Cud         , Cud         , Wwf         , Wwf         , Wwf         , Cud         
+Cud         , Wwf         , Wwf         , Wwf         , Cud         , Cud         , Cud         , 1 Cud       , Cud         , Cud         , Cud         , Wwf         , Wwf         , Wwf         , Cud         
+Cud         , Wwf         , Wwf         , Wwf         , Cud         , Gs^Ft       , Cud         , Cud         , Cud         , Gs^Ft       , Cud         , Wwf         , Wwf         , Wwf         , Cud         
+Cud         , Cud         , Cud         , Cud         , Cud         , Gs^Ft       , Cud         , Cud         , Cud         , Gs^Ft       , Cud         , Cud         , Cud         , Cud         , Cud         

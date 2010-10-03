@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+Qlf         , Qlf         , Qlf         , Qlf         , Xu          , Uu^Ii       , Uu^Ii       , Uu^Ii       , Uu^Ii       , Uu^Ii       , Uu          , Qlf         , Qlf         , Qlf         , Qlf         
+Qlf         , Qlf         , Qlf         , Xu          , Uu^Ii       , Uu^Ii       , Uu          , Uu          , Uu^Ii       , Uu          , Uu^Ii       , Xu          , Qlf         , 5 Qlf       , Qlf         
+Xu          , Xu          , Qlf         , Uu^Ii       , Uu          , Uu^Ii       , Ql          , Ql          , Ql          , Uu^Ii       , Cud         , Uu^Ii       , Qlf         , Xu          , Xu          
+Cud         , Uu^Ii       , Qlf         , Uu^Ii       , Uu^Ii       , Uu^Ii       , Ql          , Kud         , Ql          , Uu^Ii       , Uu^Ii       , Uu^Ii       , Qlf         , Uu^Ii       , Cud         
+Cud         , Uu          , Qlf         , Cud         , Cud         , Uu^Ii       , Cud         , Uu^Ii       , Cud         , Cud         , Cud         , Cud         , Qlf         , Uu          , Cud         
+Cud         , Cud         , Qlf         , Cud         , Cud         , Uu^Ii       , Qlf         , Uu^Ii       , Qlf         , Uu          , Cud         , Cud         , Qlf         , Uu^Ii       , Cud         
+Cud         , Uh          , Qlf         , Uh          , Cud         , Uu^Ii       , Uu^Ii       , Uu^Ii       , Qlf         , Uu          , Cud         , Uh          , Qlf         , Uh          , Cud         
+Cud         , Uh          , Qlf         , Uh          , Cud         , Cud         , Uu          , Uu^Ii       , Uu          , Uu^Ii       , Cud         , Uh          , Qlf         , Uh          , Cud         
+Cud         , Uh          , Qlf         , Uh          , Cud         , Cud         , Uu          , Uu          , Uu          , Cud         , Cud         , Uh          , Qlf         , Uh          , Cud         
+Cud         , Uh          , Qlf         , Uh          , Cud         , Cud         , Uu^Ii       , 1 Uu        , Uu^Ii       , Cud         , Cud         , Uh          , Uu          , Uh          , Cud         
+Cud         , Uh          , Uh          , Uh          , Cud         , Uu          , Cud         , Uu^Ii       , Cud         , Uu          , Cud         , Uh          , Uh          , Uh          , Cud         
+Cud         , Cud         , Cud         , Cud         , Cud         , Uu          , Cud         , Cud         , Cud         , Uu          , Cud         , Cud         , Cud         , Cud         , Cud         
