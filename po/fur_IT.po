@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fur\n"
+"Language: fur_IT\n"
 
 #. [scenario]: id=10_Tears_in_Hell
 #: A_Rough_Life/scenarios/10_Tears_in_Hell.cfg:3
